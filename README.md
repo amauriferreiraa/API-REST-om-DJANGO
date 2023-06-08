@@ -6,3 +6,6 @@ utilizando /ADD na url é possivel adicionar mais itens
 
 link repl it
 https://replit.com/@AmauriFerreira/API-REST-om-DJANGO
+
+desenvolvido no visual studio code
+
